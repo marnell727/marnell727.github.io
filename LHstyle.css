@@ -89,6 +89,6 @@ a:link, a:visited {
 }
 
 #welcome {
-	height: 30%;
-	width: 95%
+	height: 50px;
+	width: 100%;
 }
