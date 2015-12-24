@@ -87,3 +87,8 @@ a:link, a:visited {
 	left: 45%;
 	color: rgb(214, 127, 56);
 }
+
+#welcome {
+	height: 30%;
+	width: 95%
+}
